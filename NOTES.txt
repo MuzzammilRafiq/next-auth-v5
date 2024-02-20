@@ -1,0 +1,2 @@
+• "use client"-> by default the file is server componet so by add this keyword at the top it makes it client component
+
